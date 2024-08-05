@@ -1,7 +1,7 @@
 #group,false,false,true,true,false,false,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,double
 #default,to1,,,,,,,,,
-,result,table,_start,_stop,_time,_value,_field,_measurement,wasteType,fillLevel
+,result,table,_start,_stop,_time,_value,_field,_measurement,district,fillLevel
 ,,0,2020-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:50:33.262484Z,8,indoor,dryWastes,A,10
 ,,0,2020-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:51:48.852085Z,7,indoor,dryWastes,A,10
 ,,0,2020-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:52:31.597721Z,9,indoor,dryWastes,A,10
